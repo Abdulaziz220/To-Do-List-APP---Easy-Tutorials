@@ -41,3 +41,8 @@ body {
     cursor: pointer;
     font-size: 20px;
 }
+
+button{
+    width: 20px;
+    height: 19  px;
+}
